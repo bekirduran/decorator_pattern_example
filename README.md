@@ -14,7 +14,7 @@
 #### -> ClassicCar (concrete class) -----> extend from Car
 
 ## The Main Output::
-
+<img src= /src/main/screenshots/ss1.png width="422" height="423" >
 
 
 ## FlightTicket Application:
@@ -28,4 +28,4 @@
 #### -> EconomyTicket (concrete class) -----> extend from FlightTicket
 
 ## The Main Output::
-
+<img src= /src/main/screenshots/ss1.png width="391" height="291" >
