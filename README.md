@@ -28,4 +28,4 @@
 #### -> EconomyTicket (concrete class) -----> extend from FlightTicket
 
 ## The Main Output::
-<img src= /src/main/screenshots/ss1.png width="391" height="291" >
+<img src= /src/main/screenshots/ss2.png width="391" height="291" >
