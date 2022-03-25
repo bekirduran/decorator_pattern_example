@@ -1,7 +1,7 @@
 package decorator_pattern_carpacket;
 
 public class AIHelper extends CarDecorator{
-    final double currentPrice = 8.400;
+
 
     public AIHelper(Car car) {
         super(car);
@@ -14,6 +14,7 @@ public class AIHelper extends CarDecorator{
 
     @Override
     double cost() {
+        double currentPrice = 8.400;
         return car.cost() + currentPrice;
     }
 }
