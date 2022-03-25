@@ -1,7 +1,7 @@
 # Decorator Pattern Example (Structural Pattern)
 
-## This repository contains a simple application prepared for understanding decorator patterning.
-## There are two diffenret scenario. CarPacket and FlightTicket.
+ This repository contains a simple application prepared for understanding decorator patterning.
+ There are two diffenret scenario. CarPacket and FlightTicket.
 
 ## Car Packet Application:
 #### -> Car (abstraction class)
