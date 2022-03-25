@@ -5,6 +5,7 @@
 
 ## Car Packet Application:
 <img src= /src/main/screenshots/ss3.png width="731" height="245" >
+
 #### -> Car (abstraction class)
 #### -> CarDecorator (abstraction class) -----> extend from Car (has a relation with Car class)
 #### -> SpecialColor (concrete class) -----> extend from CarDecorator
