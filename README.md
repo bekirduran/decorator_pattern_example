@@ -20,12 +20,11 @@
 
 ## FlightTicket Application:
 <img src= /src/main/screenshots/ss4.png width="651" height="233" >
+
 #### -> FlightTicket (abstraction class)
 #### -> FlightDecorator (abstraction class) -----> extend from FlightTicket (has a relation with FlightTicket class)
-
 #### -> Meal (concrete class) -----> extend from FlightDecorator
 #### -> ExtraLugWeight (concrete class) -----> extend from FlightDecorator
-
 #### -> BusinessTicket (concrete class) -----> extend from FlightTicket
 #### -> EconomyTicket (concrete class) -----> extend from FlightTicket
 
