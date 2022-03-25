@@ -4,6 +4,7 @@
  There are two diffenret scenario. CarPacket and FlightTicket.
 
 ## Car Packet Application:
+<img src= /src/main/screenshots/ss3.png width="731" height="245" >
 #### -> Car (abstraction class)
 #### -> CarDecorator (abstraction class) -----> extend from Car (has a relation with Car class)
 #### -> SpecialColor (concrete class) -----> extend from CarDecorator
@@ -18,6 +19,7 @@
 
 
 ## FlightTicket Application:
+<img src= /src/main/screenshots/ss4.png width="651" height="233" >
 #### -> FlightTicket (abstraction class)
 #### -> FlightDecorator (abstraction class) -----> extend from FlightTicket (has a relation with FlightTicket class)
 
